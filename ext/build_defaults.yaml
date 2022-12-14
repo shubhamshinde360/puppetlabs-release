@@ -4,3 +4,5 @@ gpg_name: 'release@puppet.com'
 sign_tar: FALSE
 vanagon_project: TRUE
 build_tar: FALSE
+signing_server: composer-deb-prod-2.delivery.puppetlabs.net
+
